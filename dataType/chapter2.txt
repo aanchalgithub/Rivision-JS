@@ -1,0 +1,13 @@
+--DATA TYPES
+
+Data are of two types:
+1. Primitive DataTypes
+2. Non-Primitive Data types
+
+1. (a) number : 1, 2.23
+(b) string : collection of characters
+(c) boolean : true or false
+(d) undefined : 
+(e) null
+(f) Bigint - 2 power 53 -1
+(g) symbol

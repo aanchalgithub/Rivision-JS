@@ -1,0 +1,9 @@
+-->OPERATOR : some symbols we have which performs some specific operations and some specific purpose those symbols
+ like (+ = adding, (- = minus)), 
+
+ -TYPES : 
+ 1. Arithmetic : 
+
+ BODMAS
+ (a) unary = need only one operator eg 2+3 (only + required 2,3-operands)
+ (b) binary = need two operators  ((2+3) * 5)

@@ -1,0 +1,31 @@
+--> JS INTRDUCTION : 
+
+JS is a programming language which is build to interact with the browser and for the client side rendering. Node is a runtime 
+environment for javascript. JS uses the standard rules or format specified by ECMA international.
+
+JS names - firstly mocha, second Live Script, then later on it would be Javascript.
+
+Best practice to add script tag in last of body tag, atleat so that enire code renders without any bug
+
+
+-->VARIABLES : named memory location.
+
+-redeclaration possible
+-reassignment possible (facing debugging issues)
+
+-->LET : blocked scoped
+
+-redefination not possible
+-reassigned is possible
+
+-->CONST : values not changed
+-redefine not possible
+-redeclaration not possible
+
+---------NOTE : generally we use let constatnts-------------------------
+
+--> VARIABLES NAMING CONVENTION : 
+-number,_,$
+-space not allowed
+-camelCase allowed
+-good habit(meaning full names, not use reserved keyword)
